@@ -1,11 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              30 hrs 12 mins  ██████████████████████▒░░   89.18 %
-SQL               2 hrs 56 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.70 %
-XML               24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Properties        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Java Properties   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+From: 04 March 2024 - To: 07 April 2024
+
+Total Time: 110 hrs 30 mins
+
+Java              100 hrs 44 mins >>>>>>>>>>>>>>>>>>>>>>>--   91.17 %
+SQL               6 hrs 25 mins   >------------------------   05.81 %
+XML               1 hr 13 mins    -------------------------   01.10 %
+Properties        33 mins         -------------------------   00.50 %
+GitIgnore file    26 mins         -------------------------   00.40 %
 ```
 
 <!--END_SECTION:waka-->
