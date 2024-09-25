@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2024 - To: 22 September 2024
+From: 04 March 2024 - To: 23 September 2024
 
-Total Time: 112 hrs 15 mins
+Total Time: 113 hrs 48 mins
 
-Java              100 hrs 57 mins >>>>>>>>>>>>>>>>>>>>>>---   89.93 %
-SQL               6 hrs 31 mins   >------------------------   05.81 %
-XML               1 hr 13 mins    -------------------------   01.09 %
-Properties        33 mins         -------------------------   00.49 %
+Java              101 hrs 4 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.80 %
+SQL               6 hrs 39 mins   >------------------------   05.84 %
+XML               1 hr 25 mins    -------------------------   01.26 %
+Properties        39 mins         -------------------------   00.58 %
 Git Config        30 mins         -------------------------   00.45 %
 ```
 
