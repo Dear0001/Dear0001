@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2024 - To: 29 October 2024
+From: 04 March 2024 - To: 30 October 2024
 
-Total Time: 131 hrs 43 mins
+Total Time: 132 hrs 23 mins
 
-Java               110 hrs 38 mins >>>>>>>>>>>>>>>>>>>>>----   83.99 %
-SQL                7 hrs 57 mins   >>-----------------------   06.04 %
-XML                3 hrs           >------------------------   02.29 %
-Image (svg)        1 hr 26 mins    -------------------------   01.10 %
+Java               110 hrs 43 mins >>>>>>>>>>>>>>>>>>>>>----   83.63 %
+SQL                8 hrs 11 mins   >>-----------------------   06.19 %
+XML                3 hrs           >------------------------   02.28 %
+Image (svg)        1 hr 29 mins    -------------------------   01.12 %
 Python             1 hr 3 mins     -------------------------   00.80 %
 ```
 
