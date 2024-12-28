@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2024 - To: 25 December 2024
+From: 04 March 2024 - To: 26 December 2024
 
-Total Time: 179 hrs 37 mins
+Total Time: 179 hrs 55 mins
 
-Java               128 hrs 39 mins >>>>>>>>>>>>>>>>>>-------   71.63 %
-TypeScript         15 hrs 31 mins  >>-----------------------   08.65 %
-SQL                11 hrs 46 mins  >>-----------------------   06.55 %
-Java Properties    3 hrs 9 mins    -------------------------   01.76 %
+Java               128 hrs 39 mins >>>>>>>>>>>>>>>>>>-------   71.51 %
+TypeScript         15 hrs 31 mins  >>-----------------------   08.63 %
+SQL                11 hrs 46 mins  >>-----------------------   06.54 %
+Java Properties    3 hrs 9 mins    -------------------------   01.75 %
 XML                3 hrs 6 mins    -------------------------   01.73 %
 JavaScript         2 hrs 49 mins   -------------------------   01.57 %
 Python             2 hrs 17 mins   -------------------------   01.27 %
-JSON               1 hr 54 mins    -------------------------   01.06 %
+JSON               2 hrs 12 mins   -------------------------   01.23 %
 Image (svg)        1 hr 29 mins    -------------------------   00.83 %
 Properties         1 hr 22 mins    -------------------------   00.77 %
 Batchfile          58 mins         -------------------------   00.54 %
