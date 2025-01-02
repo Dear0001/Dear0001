@@ -1,25 +1,25 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2024 - To: 30 December 2024
+From: 04 March 2024 - To: 01 January 2025
 
-Total Time: 179 hrs 55 mins
+Total Time: 204 hrs 19 mins
 
-Java               128 hrs 39 mins >>>>>>>>>>>>>>>>>>-------   71.51 %
-TypeScript         15 hrs 31 mins  >>-----------------------   08.63 %
-SQL                11 hrs 46 mins  >>-----------------------   06.54 %
-Java Properties    3 hrs 9 mins    -------------------------   01.75 %
-XML                3 hrs 6 mins    -------------------------   01.73 %
-JavaScript         2 hrs 49 mins   -------------------------   01.57 %
-Python             2 hrs 17 mins   -------------------------   01.27 %
-JSON               2 hrs 12 mins   -------------------------   01.23 %
-Image (svg)        1 hr 29 mins    -------------------------   00.83 %
-Properties         1 hr 22 mins    -------------------------   00.77 %
-Batchfile          58 mins         -------------------------   00.54 %
-Text               55 mins         -------------------------   00.52 %
-YAML               41 mins         -------------------------   00.38 %
-Bash               38 mins         -------------------------   00.36 %
-Markdown           35 mins         -------------------------   00.33 %
+Java               145 hrs 33 mins >>>>>>>>>>>>>>>>>>-------   71.24 %
+TypeScript         15 hrs 31 mins  >>-----------------------   07.60 %
+SQL                13 hrs 16 mins  >>-----------------------   06.49 %
+Java Properties    4 hrs 33 mins   >------------------------   02.23 %
+XML                3 hrs 44 mins   -------------------------   01.83 %
+JavaScript         2 hrs 49 mins   -------------------------   01.38 %
+Python             2 hrs 20 mins   -------------------------   01.15 %
+JSON               2 hrs 12 mins   -------------------------   01.08 %
+Properties         2 hrs 4 mins    -------------------------   01.02 %
+Go                 1 hr 45 mins    -------------------------   00.86 %
+Image (svg)        1 hr 31 mins    -------------------------   00.74 %
+YAML               1 hr 8 mins     -------------------------   00.56 %
+Batchfile          58 mins         -------------------------   00.48 %
+Text               56 mins         -------------------------   00.46 %
+GitIgnore file     51 mins         -------------------------   00.42 %
 ```
 
 <!--END_SECTION:waka-->
