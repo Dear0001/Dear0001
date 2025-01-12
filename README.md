@@ -1,23 +1,23 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2024 - To: 09 January 2025
+From: 04 March 2024 - To: 10 January 2025
 
-Total Time: 204 hrs 19 mins
+Total Time: 206 hrs 9 mins
 
-Java               145 hrs 33 mins >>>>>>>>>>>>>>>>>>-------   71.24 %
-TypeScript         15 hrs 31 mins  >>-----------------------   07.60 %
-SQL                13 hrs 16 mins  >>-----------------------   06.49 %
-Java Properties    4 hrs 33 mins   >------------------------   02.23 %
-XML                3 hrs 44 mins   -------------------------   01.83 %
-JavaScript         2 hrs 49 mins   -------------------------   01.38 %
-Python             2 hrs 20 mins   -------------------------   01.15 %
-JSON               2 hrs 12 mins   -------------------------   01.08 %
-Properties         2 hrs 4 mins    -------------------------   01.02 %
-Go                 1 hr 45 mins    -------------------------   00.86 %
+Java               146 hrs 47 mins >>>>>>>>>>>>>>>>>>-------   71.21 %
+TypeScript         15 hrs 45 mins  >>-----------------------   07.65 %
+SQL                13 hrs 16 mins  >>-----------------------   06.44 %
+Java Properties    4 hrs 33 mins   >------------------------   02.21 %
+XML                3 hrs 44 mins   -------------------------   01.81 %
+JavaScript         2 hrs 49 mins   -------------------------   01.37 %
+JSON               2 hrs 34 mins   -------------------------   01.25 %
+Python             2 hrs 20 mins   -------------------------   01.14 %
+Properties         2 hrs 4 mins    -------------------------   01.01 %
+Go                 1 hr 45 mins    -------------------------   00.85 %
 Image (svg)        1 hr 31 mins    -------------------------   00.74 %
-YAML               1 hr 8 mins     -------------------------   00.56 %
-Batchfile          58 mins         -------------------------   00.48 %
+YAML               1 hr 8 mins     -------------------------   00.55 %
+Batchfile          58 mins         -------------------------   00.47 %
 Text               56 mins         -------------------------   00.46 %
 GitIgnore file     51 mins         -------------------------   00.42 %
 ```
