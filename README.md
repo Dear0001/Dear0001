@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2024 - To: 30 July 2025
+From: 04 March 2024 - To: 31 July 2025
 
-Total Time: 263 hrs 9 mins
+Total Time: 263 hrs 27 mins
 
-Java               155 hrs 19 mins >>>>>>>>>>>>>>>----------   59.03 %
-TypeScript         26 hrs 46 mins  >>>----------------------   10.17 %
-Jupyter            14 hrs 36 mins  >------------------------   05.55 %
-SQL                13 hrs 22 mins  >------------------------   05.08 %
-JavaScript         13 hrs 8 mins   >------------------------   04.99 %
+Java               155 hrs 19 mins >>>>>>>>>>>>>>>----------   58.96 %
+TypeScript         26 hrs 50 mins  >>>----------------------   10.19 %
+Jupyter            14 hrs 36 mins  >------------------------   05.54 %
+SQL                13 hrs 22 mins  >------------------------   05.07 %
+JavaScript         13 hrs 15 mins  >------------------------   05.04 %
 ```
 
 <!--END_SECTION:waka-->
