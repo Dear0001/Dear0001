@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2024 - To: 30 October 2026
+From: 04 March 2024 - To: 08 November 2026
 
-Total Time: 348 hrs 26 mins
+Total Time: 378 hrs 22 mins
 
-Java                169 hrs 2 mins        >>>>>>>>>>>>-------------   48.51 %
-TypeScript          44 hrs 28 mins        >>>----------------------   12.76 %
-JavaScript          17 hrs 27 mins        >------------------------   05.01 %
-SQL                 16 hrs 45 mins        >------------------------   04.81 %
-Jupyter             14 hrs 37 mins        >------------------------   04.20 %
+Java                173 hrs 14 mins       >>>>>>>>>>>--------------   45.78 %
+TypeScript          53 hrs 25 mins        >>>>---------------------   14.12 %
+JavaScript          18 hrs 12 mins        >------------------------   04.81 %
+SQL                 17 hrs 34 mins        >------------------------   04.64 %
+Bash                14 hrs 49 mins        >------------------------   03.92 %
 ```
 
 <!--END_SECTION:waka-->
