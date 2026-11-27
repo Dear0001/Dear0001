@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2024 - To: 24 November 2026
+From: 04 March 2024 - To: 25 November 2026
 
-Total Time: 455 hrs 17 mins
+Total Time: 461 hrs 39 mins
 
-Java                190 hrs 4 mins        >>>>>>>>>>---------------   41.75 %
-TypeScript          73 hrs 42 mins        >>>>---------------------   16.19 %
-Markdown            24 hrs 15 mins        >------------------------   05.33 %
-JavaScript          23 hrs 28 mins        >------------------------   05.16 %
-SQL                 20 hrs 51 mins        >------------------------   04.58 %
+Java                190 hrs 21 mins       >>>>>>>>>>---------------   41.23 %
+TypeScript          77 hrs 10 mins        >>>>---------------------   16.72 %
+Markdown            24 hrs 59 mins        >------------------------   05.41 %
+JavaScript          24 hrs 14 mins        >------------------------   05.25 %
+SQL                 21 hrs                >------------------------   04.55 %
 ```
 
 <!--END_SECTION:waka-->
